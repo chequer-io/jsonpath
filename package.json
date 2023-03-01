@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "static-eval": "2.0.2",
-    "underscore": "^1.13.3"
+    "underscore": "^1.13.6"
   },
   "main": "./index.js",
   "devDependencies": {
