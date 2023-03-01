@@ -8,7 +8,7 @@
     "generate": "node bin/generate_parser.js > generated/parser.js"
   },
   "dependencies": {
-    "static-eval": "2.0.2",
+    "static-eval": "2.1.0",
     "underscore": "^1.13.3"
   },
   "main": "./index.js",
